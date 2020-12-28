@@ -1,0 +1,1 @@
+Please contact the InCountry team to get certificates before getting started with InCountry REST API.
